@@ -1,0 +1,3 @@
+- Stringify: Từ javascript types -> JSON
+- Parse: Từ JSON -> Javascript types
+- 

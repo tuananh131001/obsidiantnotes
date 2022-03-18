@@ -1,0 +1,1 @@
+Bằng cách thêm `event listener` vào một đối tượng, chúng ta có thể bắt được một loạt các sự kiện do người dùng hoặc trình duyệt tạo ra.
