@@ -1,0 +1,1 @@
+- Kết quả trả về của tham số đằng trước sẽ là kết quả của tham số đằng sau

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming Language/Javascript/Promise.md",
+            "file": "Programming Language/CSS/Flex box/Flexbox Layout.md",
             "mode": "source",
             "source": false
           }
@@ -69,19 +69,19 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Language/Javascript/Promise.md",
+                "file": "Programming Language/CSS/Flex box/Flexbox Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "2bc6663d91b426da",
+            "id": "e5cd2d2abd47ce05",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -97,10 +97,15 @@
   },
   "active": "26eec932ed6f9ced",
   "lastOpenFiles": [
-    "Programming Language/Javascript/Promise.md",
+    "Programming Language/CSS/Flex box/Flexbox Layout.md",
+    "Programming Language/CSS/Flex box/Main.md",
+    "Programming Language/CSS/Flex Box.md",
+    "Programming Language/Javascript/ES6/Arrow Function.md",
+    "Programming Language/Javascript/Fetch.md",
+    "Pasted image 20220319092309.png",
     "Programming Language/Javascript/JSON.md",
-    "Programming Language/Javascript/Event listener.md",
-    "Programming Language/Javascript/DOM events.md",
-    "Javascript.md"
+    "Programming Language/Javascript/Promise/Promise ( Lý thuyết ).md",
+    "Programming Language/Javascript/Promise/Promise ( Chain ).md",
+    "Programming Language/Javascript/Promise/Promise example.md"
   ]
 }
